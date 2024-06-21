@@ -2,7 +2,7 @@
 
 ## Overview
 
-Healthie is an AI-powered chatbot designed to act as a virtual therapist and medical suggester. It provides home remedies and health advice based on data scraped from reputable sources. Healthie does not prescribe any medications and always advises users to consult with a real doctor for professional medical advice.
+Healthie is an AI-powered chatbot designed to act as a virtual therapist and medical suggester. It provides home remedies and health advice based on data scraped from reputable sources. Healthie does not prescribe any medications and always advises users to consult with a real doctor for professional medical advice. This chatbot is made using botpress.
 
 ## Try it out yourself
 [Healthie AI Chatbot](https://mediafiles.botpress.cloud/89c28c88-0000-4348-a46a-9eee34c69fda/webchat/bot.html)
